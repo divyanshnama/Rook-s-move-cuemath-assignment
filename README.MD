@@ -4,11 +4,11 @@
   </h1>
 </div>
 
-# ☕️ Tech Stack and Approaches
+#  Tech Stack and Approaches
 
 JavaScript, PhaserJS 3.6, Vite, NodeJS, ExpressJS, Socket.IO
 
-# 🕺 Want To Run Your Own RookMove Instance ?
+#   Run Your Own RookMove Instance ?
 
 Install client and server dependencies
 
