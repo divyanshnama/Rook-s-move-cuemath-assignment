@@ -20,6 +20,6 @@ $ cd server
 $ npm install
 $npm start
 
-follow the link in the ( http://localhost:5173/ ) to access your instance of RookMove! and duplicate the tab for other player
+follow the link after all the steps ( http://localhost:5173/ ) to access your instance of RookMove! and duplicate the tab for other player
 ```
 #
